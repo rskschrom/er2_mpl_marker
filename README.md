@@ -13,3 +13,5 @@ where `rot_ang` is the desired rotation angle (in degrees) of the aircraft marke
 ```python
 ax.plot(x, y, marker=plane_path)
 ```
+
+!(https://github.com/rskschrom/er2_mpl_marker/blob/master/plane.png)
