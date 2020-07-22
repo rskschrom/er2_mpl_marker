@@ -1,6 +1,6 @@
 # er2_mpl_marker
 
-Function `make_plane' within `plane_path.py` to create a Matplotlib Path object in the shape of the [NASA ER2 aircraft](https://www.nasa.gov/centers/armstrong/aircraft/ER-2/index.html). Requires Matplotlib and Numpy.
+Function `make_plane` within `plane_path.py` to create a Matplotlib Path object in the shape of the [NASA ER2 aircraft](https://www.nasa.gov/centers/armstrong/aircraft/ER-2/index.html). Requires Matplotlib and Numpy.
 
 ## Usage:
 
